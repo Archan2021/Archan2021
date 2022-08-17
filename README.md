@@ -28,8 +28,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
 
-
+## Bio
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=archan2021&label=Profile%20views&color=0e75b6&style=flat" alt="archan2021" /> </p>
+
 
 - 🔭 I’m currently working on **javascript**
 
