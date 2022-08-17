@@ -77,3 +77,7 @@ Here are some ideas to get you started:
 <h3>📈 Graph</h3>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archan2021&theme=monokai" />
 </div>
+
+---
+
+![snake gif](https://github.com/Archan2021/Archan2021/blob/output/github-contribution-grid-snake.gif)
