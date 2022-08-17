@@ -74,3 +74,6 @@ Here are some ideas to get you started:
 
 ![Archan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Archan2021&show_icons=true&theme=radical)
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=archan2021&" alt="archan2021" /></p>
+<h3>📈 Graph</h3>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Archan2021&theme=monokai" />
+</div>
